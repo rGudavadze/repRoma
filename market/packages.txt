@@ -1,3 +1,7 @@
+#pips:
+
 flask-wtf
 wtforms
 email-validator
+flask_bcrypt
+flask_login
